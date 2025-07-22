@@ -1,7 +1,7 @@
 import './App.css'
 import Courses from './components/Courses'
 import { useState } from 'react';
-import data from './components/Data'
+import data from './Data';
 
 function App() {
 

@@ -1,10 +1,10 @@
-import fullstack from '../assets/fullstack.jpg'
-import dsa from '../assets/dsa.jpg'
-import python from '../assets/python.jpg'
-import mernstack from '../assets/mernstack.jpg'
-import sd from '../assets/sd.jpg'
-import devops from '../assets/devops.jpg'
-import ml from '../assets/ml.jpg'
+import fullstack from './assets/fullstack.jpg'
+import dsa from './assets/dsa.jpg'
+import python from './assets/python.jpg'
+import mernstack from './assets/mernstack.jpg'
+import sd from './assets/sd.jpg'
+import devops from './assets/devops.jpg'
+import ml from './assets/ml.jpg'
 
 const data = [
 	{

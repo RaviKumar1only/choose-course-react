@@ -1,5 +1,5 @@
 import React from 'react'
-import Course from './course';
+import Course from './Course';
 
 function Courses({courses, removeCourse}) {
   return (
